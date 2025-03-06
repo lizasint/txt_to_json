@@ -1,0 +1,12 @@
+human: parents, studying, work, home, birthday=3.10.1992, name=Ivan, surname=Ivanov
+parents: mother, father
+studying: school_1032, school_121, art_school
+work: IBM, Apple
+home: city=Novosibirsk, street=Lenina, building=13, flat=188
+mother: name=Irina, surname=Sergeeva, birthday=5.12.1964
+father: name=Oleg, surname=Antonov, birthday=21.02.1964
+school_1032: period=01.01.1998-04.02.2004, class=A
+school_121: period=05.02.2004-25.05.2010, class=B
+art_school: period=08.11.2000-24.07.2006, class=Painting
+IBM: period=02.10.2004-15.06.2010, post=Engineer, salary=2400 dollars
+Apple: period=21.06.2010-now, post=Lead Engineer, salary=5200 dollars
